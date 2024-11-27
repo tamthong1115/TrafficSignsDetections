@@ -1,0 +1,15 @@
+
+runs/
+traffic-signs-detection-using-yolov8 (1).ipynb
+
+yolov8n.pt
+
+kaggle/
+
+best.onnx
+
+.venv/
+
+.idea/
+
+dataset/
